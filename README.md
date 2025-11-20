@@ -1,2 +1,3 @@
 # Yuvie
-My name is Yuvie studing git hib
+My name is Yuvie studying GITHUB
+I have corrected all issues
